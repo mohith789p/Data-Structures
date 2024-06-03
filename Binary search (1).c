@@ -1,4 +1,4 @@
-/* Program on Binary Search */
+/* Program on Binary Search RECURSIVE*/
 
 #include<stdio.h>
 int a[30], n, key;
