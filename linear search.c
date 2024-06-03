@@ -1,3 +1,4 @@
+/* Program on Linear Search */
 #include<stdio.h>
 
 int linsearch(int a[ ], int n, int key) {
